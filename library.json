@@ -1,8 +1,8 @@
 {
 	"id": "{4414D465-0A32-49AC-929A-D948CBCDE06E}",
-	"author": "Symcon GmbH",
-	"name": "SzenenSteuerung",
-	"url": "www.symcon.de",
+	"author": "Bernhard Baptist (original von:  Symcon GmbH)",
+	"name": "BB_SzenenSteuerung",
+	"url": "",
 	"compatibility": {
 		"version": "5.0"
 	},
