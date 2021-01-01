@@ -1,0 +1,15 @@
+{
+    "id": "{9B8DB964-4F52-93F8-1097-4BC241915BAA}",
+    "name": "BB_SzenenSteuerung",
+    "type": 3,
+    "vendor": "",
+    "aliases": 
+    [
+        "BB_SzenenSteuerung"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "SZS",
+    "url": ""
+}
