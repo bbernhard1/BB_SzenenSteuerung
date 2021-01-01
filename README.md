@@ -1,4 +1,11 @@
 # Szenensteuerung
+
+Dies ist ein Fork des original IP-Symcon Szenen Modules
+### Änderungen: 
+Ein zusätzlicher Button um ein versehentliches überschreiben von bereits nagelegten Szenen zu verhindern.
+Ein neuer NextScene() Befehl um über alle Szenen per Code zu iterieren.
+
+
 Die Szenensteuerung speichert Werte von in einer Liste gespeicherten Variablen in Szenen und kann diese via Knopfdruck aus dem WebFront und mobilen Apps wieder aufrufen.  
 Die zu schaltenden Variablen müssen dazu in der Instanzkonfiguration der Liste "Variablen" hinzugefügt werden.
 Sind alle für eine Szene gewünschten Variablen hinzugefügt und auf den gewünschten Wert gesetzt, können diese mit dem "Speichern"-Knopf (im Webfront) der entsprechenden Szene hinzugefügt werden.
@@ -28,7 +35,7 @@ Mit dem Button "Szenen Bearbeiten" kann ein versehentliches verändern einmal ab
 ### 3. Software-Installation
 
 * Über das Module Control folgende URL hinzufügen:
-`https://github.com/symcon/SzenenSteuerung`
+`https://github.com/bbernhard1/BB_SzenenSteuerung`
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
